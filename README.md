@@ -9,7 +9,7 @@ This app is designed to play music even when Encryption 2.0 app is activated. Th
 Usage
 --------
 1. Install and configure the ownCloud-music-app
-2. Download and install the APK-file out of this repository. It has been compiled for Android >=4.0.3
+2. Download and install the APK-file out of this repository (https://github.com/xn--nding-jua/Ampdroid/blob/master/app/app-release.apk?raw=true). It has been compiled for Android >=4.0.3
 3. Enter the path to the music app: "https://cloud.domain.de/index.php/apps/music/ampache" (server/xml.server.php will be added automatically)
 4. Enter credentials for ownCloud (User/Password) and the generated password for the ampache-server
 5. enjoy the music
